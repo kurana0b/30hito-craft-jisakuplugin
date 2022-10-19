@@ -1,0 +1,8 @@
+name: 30hito-craft
+version: '${project.version}'
+main: Main
+api-version: 1.19
+prefix: krplugin
+authors: [ kurana0b ]
+description: 深夜テンションで作ってるプラグイン
+website: github.com/kurana0b
